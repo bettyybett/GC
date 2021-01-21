@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578409371 source:c:\users\betty\desktop\gc proiect ex 7\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits.h>
+
